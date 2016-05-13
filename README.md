@@ -1,2 +1,0 @@
-# nagari
-my site
